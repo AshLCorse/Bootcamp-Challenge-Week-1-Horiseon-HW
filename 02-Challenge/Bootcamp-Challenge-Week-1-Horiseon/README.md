@@ -22,3 +22,9 @@ remove duplicate css code
 change heading in footer to be sequential
 add descriptive title
 fix any bugs
+
+Hi there, Ashleigh,
+Thank you for submitting your first homework assignment! You were able to provide both required functioning links necessary to provide an accurate grade.
+Great job successfully deploying your application and making it available on a live URL.
+It’s great to see your dedication and hard work.
+I noticed that only some of the links in the nav bar are working; make sure that the hrefs from your nav bar are pointing to the correct IDs or classes in the HTML.
